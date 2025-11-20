@@ -179,7 +179,7 @@ https://wokwi.com/projects/447906452922479617
 ## 🎥 Demonstração em Vídeo
 
 📺 **YouTube:**  
-https://www.youtube.com/watch?v=RXW5s48QxTU
+https://youtu.be/sr7dgirZSMk
 
 ---
 
