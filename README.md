@@ -1,6 +1,6 @@
-# 📝 README.md – FLUXO MENTOR (ESP32 + FIWARE + MQTT)
+# 📝 README.md – Praxis (ESP32 + FIWARE + MQTT)
 
-<h1 align="center">🤖 Fluxo Mentor – Assistente Inteligente para Operadores de Logística</h1>  
+<h1 align="center">🤖 Praxis – Assistente Inteligente para Operadores de Logística</h1>  
 <p align="center">  
   <strong>Global Solution • FIAP • Engenharia de Software</strong><br>
   Edge Computing • IoT • MQTT • FIWARE • Wokwi • ESP32  
@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre o Projeto
 
-O **Fluxo Mentor** é um sistema inteligente de apoio a operadores de logística — representados aqui pelo “Sérgio” — que auxilia no fluxo de atividades em tempo real, permitindo que o usuário confirme se entendeu (ou não) a tarefa através de botões físicos.
+O **Praxis** é um sistema inteligente de apoio a operadores de logística — representados aqui pelo “Sérgio” — que auxilia no fluxo de atividades em tempo real, permitindo que o usuário confirme se entendeu (ou não) a tarefa através de botões físicos.
 
 O sistema utiliza:
 
