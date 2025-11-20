@@ -60,7 +60,13 @@ s = state (SK-103 / SK-NOT-UNDERSTOOD)
 ---
 
 ## ▶ **Simulação no Wokwi**
-🔗 https://wokwi.com/projects/446815872629354497
+🔗 https://wokwi.com/projects/447906452922479617
+
+---
+
+
+## 📷 **Video no YouTube**
+🔗 https://www.youtube.com/watch?v=sr7dgirZSMk
 
 ---
 
